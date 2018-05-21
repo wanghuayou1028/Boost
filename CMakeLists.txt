@@ -12,3 +12,6 @@ target_link_libraries(scoped_ptr ${Boost_LIBRARIES})
 
 add_executable( shared_ptr shared_ptr.cpp )
 target_link_libraries(shared_ptr ${Boost_LIBRARIES}) 
+
+add_executable( circular_buffer circular_buffer.cpp )
+target_link_libraries(circular_buffer ${Boost_LIBRARIES}) 
