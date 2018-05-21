@@ -41,6 +41,10 @@
         "utility": "cpp",
         "tuple": "cpp",
         "typeinfo": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "strstream": "cpp",
+        "complex": "cpp",
+        "iomanip": "cpp",
+        "thread": "cpp"
     }
 }
