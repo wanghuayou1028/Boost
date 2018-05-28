@@ -46,6 +46,7 @@
         "complex": "cpp",
         "iomanip": "cpp",
         "thread": "cpp",
-        "*.ipp": "cpp"
+        "*.ipp": "cpp",
+        "bitset": "cpp"
     }
 }
