@@ -45,6 +45,7 @@
         "strstream": "cpp",
         "complex": "cpp",
         "iomanip": "cpp",
-        "thread": "cpp"
+        "thread": "cpp",
+        "*.ipp": "cpp"
     }
 }
