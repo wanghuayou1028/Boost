@@ -1,3 +1,6 @@
+// g++ -I /usr/include -L /usr/lib thread_local_storage.cpp -lboost_system -lboost_thread -o thread_local_storage
+
+
 #include <boost/thread/thread.hpp>
 #include <boost/thread/mutex.hpp>
 #include <boost/thread/tss.hpp>
